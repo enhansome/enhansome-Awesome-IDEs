@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "description": "These IDEs are built with Artificial Intelligence at their core or represent the next generation of high-performance editors.",
+      "items": [],
+      "title": "AI-Powered & Next-Gen IDEs"
+    },
+    {
+      "description": "Versatile editors and IDEs that support a wide array of languages and workflows via plugins.",
+      "items": [],
+      "title": "General Purpose IDEs"
+    },
+    {
+      "description": "While many general IDEs support these languages, the following are specialized or \"Best-in-Class\" for specific ecosystems.",
+      "items": [],
+      "title": "Language-Specific IDEs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "C/C++"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web Development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mobile Development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data Science"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game Development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Embedded Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Version Control & Tools"
+    },
+    {
+      "description": "Contributions are welcome! Please read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Licensed under the Creative Commons Attribution 4.0 International License.\nDisclaimer: Usage of icons is for identification purposes only.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:28:02.666Z",
+    "original_repository": "zeelsheladiya/Awesome-IDEs",
+    "original_repository_sha": "a78c2f80d8a36fec6de107ddd7c6488e8994a060",
+    "enhanced_repository": "enhansome/enhansome-Awesome-IDEs",
+    "enhanced_repository_description": null,
+    "title": "Awesome-IDEs with stars"
+  }
+}
