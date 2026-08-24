@@ -1,7 +1,850 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "These IDEs are built with Artificial Intelligence at their core or represent the next generation of high-performance editors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zed",
+          "description": "A high-performance, multiplayer code editor written in Rust. Designed for speed and collaboration with built-in AI chat. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 340547520,
+            "language": "Rust",
+            "last_commit": "2026-08-24T13:21:33Z",
+            "owner": "zed-industries",
+            "repo": "zed",
+            "stars": 89140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Theia IDE",
+          "description": "An extensible, adaptable platform compatible with VS Code extensions, featuring transparent AI coding. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83050680,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:22:51Z",
+            "owner": "eclipse-theia",
+            "repo": "theia",
+            "stars": 21650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Void",
+          "description": "Open-source, AI-powered fork of VS Code. Privacy-focused alternative to Cursor. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 855528273,
+            "language": "TypeScript",
+            "last_commit": "2026-06-02T22:03:55Z",
+            "owner": "voideditor",
+            "repo": "void",
+            "stars": 28831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cline",
+          "description": "Autonomous coding agent extension for VS Code. Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 824874689,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T22:59:35Z",
+            "owner": "cline",
+            "repo": "cline",
+            "stars": 66762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCode",
+          "description": "AI coding agent that integrates with terminals and IDEs. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 975734319,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:29:40Z",
+            "owner": "anomalyco",
+            "repo": "opencode",
+            "stars": 200901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coder",
+          "description": "Coding Agent Multiplexer. Manage multiple AI agents in parallel. Website Github Paid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172953845,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T21:45:26Z",
+            "owner": "coder",
+            "repo": "code-server",
+            "stars": 79044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cate",
+          "description": "Infinite-canvas IDE where editors, terminals, browsers, docs, Git panels and AI agents float as draggable nodes you arrange freely, like Figma for code. Run multiple Claude Code agents in parallel on the canvas. Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1195336965,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T08:36:52Z",
+            "owner": "0-AI-UG",
+            "repo": "cate",
+            "stars": 2089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orca",
+          "description": "An open-source agentic development environment (ADE) for running a fleet of parallel AI coding agents — Claude Code, Codex, Cursor, Gemini — each in its own isolated git worktree, with a built-in terminal and source control. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1183888342,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:25:33Z",
+            "owner": "stablyai",
+            "repo": "orca",
+            "stars": 52552
+          }
+        }
+      ],
+      "title": "AI-Powered & Next-Gen IDEs"
+    },
+    {
+      "description": "Versatile editors and IDEs that support a wide array of languages and workflows via plugins.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code",
+          "description": "The most popular code editor, highly customizable with a massive extension marketplace. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41881900,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:33:56Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 189368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neovim",
+          "description": "Hyperextensible Vim-based text editor. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16408992,
+            "language": "Vim Script",
+            "last_commit": "2026-08-24T14:18:48Z",
+            "owner": "neovim",
+            "repo": "neovim",
+            "stars": 101931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helix",
+          "description": "A post-modern modal text editor built in Rust. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268424739,
+            "language": "Rust",
+            "last_commit": "2026-08-18T23:23:16Z",
+            "owner": "helix-editor",
+            "repo": "helix",
+            "stars": 45920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Micro",
+          "description": "A modern, intuitive terminal-based text editor. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53632140,
+            "language": "Go",
+            "last_commit": "2026-08-24T00:16:32Z",
+            "owner": "micro-editor",
+            "repo": "micro",
+            "stars": 29432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSCodium",
+          "description": "Binary releases of VS Code without Microsoft telemetry/branding. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144590939,
+            "language": "Shell",
+            "last_commit": "2026-08-12T12:43:33Z",
+            "owner": "VSCodium",
+            "repo": "vscodium",
+            "stars": 32965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geany",
+          "description": "Powerful, stable, and lightweight programmer's text editor. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2532922,
+            "language": "C",
+            "last_commit": "2026-08-03T21:34:14Z",
+            "owner": "geany",
+            "repo": "geany",
+            "stars": 3698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextMate",
+          "description": "Powerful and customizable text editor for macOS. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5344375,
+            "language": "Objective-C++",
+            "last_commit": "2024-05-18T11:00:21Z",
+            "owner": "textmate",
+            "repo": "textmate",
+            "stars": 14568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CotEditor",
+          "description": "Lightweight plain-text editor for macOS. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9243402,
+            "language": "Swift",
+            "last_commit": "2026-08-20T22:57:35Z",
+            "owner": "coteditor",
+            "repo": "CotEditor",
+            "stars": 8404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spacemacs",
+          "description": "Community-driven Emacs distribution. \"The best of both Emacs and Vim\". Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7212645,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-23T17:11:07Z",
+            "owner": "syl20bnr",
+            "repo": "spacemacs",
+            "stars": 24560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lite XL",
+          "description": "A lightweight text editor written in Lua. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266620119,
+            "language": "Lua",
+            "last_commit": "2026-03-11T17:04:09Z",
+            "owner": "lite-xl",
+            "repo": "lite-xl",
+            "stars": 6338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CudaText",
+          "description": "Cross-platform text editor with Python API. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42943612,
+            "language": "Python",
+            "last_commit": "2026-08-22T18:54:21Z",
+            "owner": "Alexey-T",
+            "repo": "CudaText",
+            "stars": 3161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Athas",
+          "description": "High-performance, Vim-based editor built with Tauri and React. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1006087248,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:49:55Z",
+            "owner": "athasdev",
+            "repo": "athas",
+            "stars": 3025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fresh Editor",
+          "description": "Modern terminal-based text editor and IDE. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 907990001,
+            "language": "Rust",
+            "last_commit": "2026-08-24T06:11:01Z",
+            "owner": "sinelaw",
+            "repo": "fresh",
+            "stars": 8490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graviton",
+          "description": "Minimalistic, cross-platform code editor. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 162125552,
+            "language": "TypeScript",
+            "last_commit": "2024-04-03T18:11:43Z",
+            "owner": "Graviton-Code-Editor",
+            "repo": "Graviton-App",
+            "stars": 1206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SciTE",
+          "description": "CheckOut Scintilla Text Editor. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334096873,
+            "language": "C++",
+            "last_commit": "2026-08-12T08:51:42Z",
+            "owner": "ScintillaOrg",
+            "repo": "lexilla",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Textadept",
+          "description": "Fast, minimalist, and extensible cross-platform text editor. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 294280296,
+            "language": "Lua",
+            "last_commit": "2026-08-09T05:12:42Z",
+            "owner": "orbitalquark",
+            "repo": "textadept",
+            "stars": 910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Light Table",
+          "description": "Next generation code editor. (Legacy). Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 4814354,
+            "language": "Clojure",
+            "last_commit": "2022-06-17T00:20:21Z",
+            "owner": "LightTable",
+            "repo": "LightTable",
+            "stars": 11689
+          }
+        }
+      ],
+      "title": "General Purpose IDEs"
+    },
+    {
+      "description": "While many general IDEs support these languages, the following are specialized or \"Best-in-Class\" for specific ecosystems.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Thonny",
+              "description": "Python IDE for beginners. Website Github Free, Open-Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163728962,
+                "language": "Python",
+                "last_commit": "2026-05-28T14:52:36Z",
+                "owner": "thonny",
+                "repo": "thonny",
+                "stars": 3916
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyScripter",
+              "description": "Lightweight, open-source Python IDE for Windows. Github Free, Open-Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41313736,
+                "language": "Pascal",
+                "last_commit": "2025-11-24T20:01:29Z",
+                "owner": "lmbelo",
+                "repo": "pyscripter",
+                "stars": 1250
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NetBeans",
+              "description": "Official IDE for Java 8. Good support to modular applications. Website Github Free, Open-Source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102083576,
+                "language": "Java",
+                "last_commit": "2026-08-22T06:46:44Z",
+                "owner": "apache",
+                "repo": "netbeans",
+                "stars": 3096
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        }
+      ],
+      "title": "Language-Specific IDEs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Komodo IDE",
+          "description": "One IDE for all your languages (Python, PHP, Go, Perl, Tcl, Ruby, etc). Website Github Free (ActiveState)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 244748840,
+            "language": "Python",
+            "last_commit": "2022-12-15T04:25:47Z",
+            "owner": "ActiveState",
+            "repo": "OpenKomodoIDE",
+            "stars": 648
+          }
+        }
+      ],
+      "title": "Web Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Squircle IDE",
+          "description": "A fast multi-language code editor for Android devices. Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100590072,
+            "language": "Kotlin",
+            "last_commit": "2026-08-22T13:48:41Z",
+            "owner": "massivemadness",
+            "repo": "Squircle-CE",
+            "stars": 1870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cosmic IDE",
+          "description": "JVM (Java/Kotlin) IDE for Android. Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 439552706,
+            "language": "Kotlin",
+            "last_commit": "2026-08-21T14:37:27Z",
+            "owner": "aload0",
+            "repo": "Cosmic-IDE",
+            "stars": 711
+          }
+        }
+      ],
+      "title": "Mobile Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Godot",
+          "description": "Feature-packed, cross-platform, open-source game engine. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15634981,
+            "language": "C++",
+            "last_commit": "2026-08-21T21:08:08Z",
+            "owner": "godotengine",
+            "repo": "godot",
+            "stars": 116080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Defold",
+          "description": "focused on 2D game development and ease of use. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4315538,
+            "language": "C++",
+            "last_commit": "2026-08-24T12:25:00Z",
+            "owner": "defold",
+            "repo": "defold",
+            "stars": 6267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stride",
+          "description": "Open-source 3D game engine (formerly Xenko). Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136570231,
+            "language": "C#",
+            "last_commit": "2026-08-23T20:21:44Z",
+            "owner": "stride3d",
+            "repo": "stride",
+            "stars": 7796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hazel",
+          "description": "Early-stage interactive application and rendering engine. Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153866232,
+            "language": "C++",
+            "last_commit": "2024-04-20T19:01:27Z",
+            "owner": "TheCherno",
+            "repo": "Hazel",
+            "stars": 13086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open 3D Engine",
+          "description": "AAA-capable, open-source 3D engine. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 354743391,
+            "language": "C++",
+            "last_commit": "2026-08-22T17:38:39Z",
+            "owner": "o3de",
+            "repo": "o3de",
+            "stars": 9626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redot Engine",
+          "description": "Community-driven fork of Godot Engine. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106836261,
+            "language": "C++",
+            "last_commit": "2026-08-07T21:49:51Z",
+            "owner": "Redot-Engine",
+            "repo": "redot-engine",
+            "stars": 5919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MicroStudio",
+          "description": "Online game engine for learning and prototyping. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 385527025,
+            "language": "JavaScript",
+            "last_commit": "2026-06-30T09:16:53Z",
+            "owner": "pmgl",
+            "repo": "microstudio",
+            "stars": 1173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bevy",
+          "description": "A data-driven game engine built in Rust. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 234798675,
+            "language": "Rust",
+            "last_commit": "2026-08-23T23:09:41Z",
+            "owner": "bevyengine",
+            "repo": "bevy",
+            "stars": 47822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlayCanvas",
+          "description": "Cloud-first web game engine. Collaborative 3D development. Website Github Freemium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19696006,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T14:33:25Z",
+            "owner": "playcanvas",
+            "repo": "engine",
+            "stars": 16551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torque 3D",
+          "description": "Open-source C++ engine with a long history. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 267440108,
+            "language": "C++",
+            "last_commit": "2026-08-24T12:22:36Z",
+            "owner": "TorqueGameEngines",
+            "repo": "Torque3D",
+            "stars": 2088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flax Engine",
+          "description": "High-quality 3D engine with C++ and C# scripting. Website Github Free (Royalties)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 319991441,
+            "language": "C++",
+            "last_commit": "2026-08-18T10:11:27Z",
+            "owner": "FlaxEngine",
+            "repo": "FlaxEngine",
+            "stars": 6979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wicked Engine",
+          "description": "Modern C++ engine focusing on rendering performance. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37770961,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:04:33Z",
+            "owner": "turanszkij",
+            "repo": "WickedEngine",
+            "stars": 7199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EzEngine",
+          "description": "Modular C++ game engine. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18179848,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:18:59Z",
+            "owner": "ezEngine",
+            "repo": "ezEngine",
+            "stars": 1998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enigma",
+          "description": "Open-source game development environment compatible with Game Maker. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3319723,
+            "language": "C++",
+            "last_commit": "2026-07-09T00:09:55Z",
+            "owner": "enigma-dev",
+            "repo": "enigma-dev",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fyrox",
+          "description": "Feature-rich game engine written in Rust. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178597005,
+            "language": "Rust",
+            "last_commit": "2026-08-23T14:42:19Z",
+            "owner": "FyroxEngine",
+            "repo": "Fyrox",
+            "stars": 9524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amethyst",
+          "description": "Data-driven game engine written in Rust (Maintenance Mode). Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 48364554,
+            "language": "Rust",
+            "last_commit": "2021-12-06T18:23:49Z",
+            "owner": "amethyst",
+            "repo": "amethyst",
+            "stars": 8026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verus Engine",
+          "description": "High-performance C++ game engine. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123672581,
+            "language": "C++",
+            "last_commit": "2024-11-23T11:24:48Z",
+            "owner": "dmaluev",
+            "repo": "verus",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Game Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AvalonStudio",
+          "description": "Cross platform IDE for Embedded C/C++ and .NET Core. Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43116257,
+            "language": "C#",
+            "last_commit": "2024-01-23T11:35:35Z",
+            "owner": "VitalElement",
+            "repo": "AvalonStudio",
+            "stars": 1721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElectronIDE",
+          "description": "Web based Arduino IDE. Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 20756285,
+            "language": "JavaScript",
+            "last_commit": "2015-04-23T21:20:01Z",
+            "owner": "joshmarinacci",
+            "repo": "ElectronIDE",
+            "stars": 242
+          }
+        }
+      ],
+      "title": "Embedded Systems"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Judge0",
+          "description": "Robust, scalable, and open-source online code execution system. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80240424,
+            "language": "HTML",
+            "last_commit": "2026-08-17T11:05:41Z",
+            "owner": "judge0",
+            "repo": "judge0",
+            "stars": 4396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lore",
+          "description": "a next-generation, open source version control system. Website Github Free, Open-Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1246010662,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:30:46Z",
+            "owner": "EpicGames",
+            "repo": "lore",
+            "stars": 8464
+          }
+        }
+      ],
+      "title": "Version Control & Tools"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T15:49:50.573Z",
+    "last_updated": "2026-08-24T14:36:18.160Z",
     "original_repository": "zeelsheladiya/Awesome-IDEs",
     "original_repository_id": 676569489,
     "original_repository_sha": "a78c2f80d8a36fec6de107ddd7c6488e8994a060",
