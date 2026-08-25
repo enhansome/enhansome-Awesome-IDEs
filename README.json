@@ -12,10 +12,10 @@
             "archived": false,
             "id": 340547520,
             "language": "Rust",
-            "last_commit": "2026-08-25T06:23:49Z",
+            "last_commit": "2026-08-25T15:51:36Z",
             "owner": "zed-industries",
             "repo": "zed",
-            "stars": 89172
+            "stars": 89194
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 83050680,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T00:22:09Z",
+            "last_commit": "2026-08-25T15:00:34Z",
             "owner": "eclipse-theia",
             "repo": "theia",
             "stars": 21653
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-02T22:03:55Z",
             "owner": "voideditor",
             "repo": "void",
-            "stars": 28829
+            "stars": 28828
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 824874689,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:11:13Z",
+            "last_commit": "2026-08-25T16:02:52Z",
             "owner": "cline",
             "repo": "cline",
-            "stars": 66803
+            "stars": 66820
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 975734319,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:12:02Z",
+            "last_commit": "2026-08-25T16:09:27Z",
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 201128
+            "stars": 201272
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-24T22:00:51Z",
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79058
+            "stars": 79065
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 1195336965,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:36:52Z",
+            "last_commit": "2026-08-25T07:11:56Z",
             "owner": "0-AI-UG",
             "repo": "cate",
             "stars": 2088
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 1183888342,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:26:07Z",
+            "last_commit": "2026-08-25T14:00:43Z",
             "owner": "stablyai",
             "repo": "orca",
-            "stars": 53018
+            "stars": 53439
           }
         }
       ],
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:24:39Z",
+            "last_commit": "2026-08-25T16:08:40Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189578
+            "stars": 189591
           }
         },
         {
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 16408992,
             "language": "Vim Script",
-            "last_commit": "2026-08-25T05:20:01Z",
+            "last_commit": "2026-08-25T15:05:16Z",
             "owner": "neovim",
             "repo": "neovim",
-            "stars": 101947
+            "stars": 101958
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-18T23:23:16Z",
             "owner": "helix-editor",
             "repo": "helix",
-            "stars": 45922
+            "stars": 45927
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-25T00:17:54Z",
             "owner": "micro-editor",
             "repo": "micro",
-            "stars": 29433
+            "stars": 29436
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-12T12:43:33Z",
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 32971
+            "stars": 32975
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-03T21:34:14Z",
             "owner": "geany",
             "repo": "geany",
-            "stars": 3698
+            "stars": 3699
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2024-05-18T11:00:21Z",
             "owner": "textmate",
             "repo": "textmate",
-            "stars": 14569
+            "stars": 14568
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-20T22:57:35Z",
             "owner": "coteditor",
             "repo": "CotEditor",
-            "stars": 8409
+            "stars": 8410
           }
         },
         {
@@ -288,7 +288,7 @@
             "archived": false,
             "id": 42943612,
             "language": "Python",
-            "last_commit": "2026-08-25T05:27:27Z",
+            "last_commit": "2026-08-25T12:57:25Z",
             "owner": "Alexey-T",
             "repo": "CudaText",
             "stars": 3163
@@ -303,10 +303,10 @@
             "archived": false,
             "id": 1006087248,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:32:00Z",
+            "last_commit": "2026-08-25T15:46:40Z",
             "owner": "athasdev",
             "repo": "athas",
-            "stars": 3026
+            "stars": 3028
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-24T06:11:01Z",
             "owner": "sinelaw",
             "repo": "fresh",
-            "stars": 8496
+            "stars": 8507
           }
         },
         {
@@ -524,7 +524,7 @@
             "last_commit": "2026-08-25T02:55:29Z",
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116100
+            "stars": 116121
           }
         },
         {
@@ -536,7 +536,7 @@
             "archived": false,
             "id": 4315538,
             "language": "C++",
-            "last_commit": "2026-08-25T06:02:16Z",
+            "last_commit": "2026-08-25T15:14:01Z",
             "owner": "defold",
             "repo": "defold",
             "stars": 6267
@@ -569,7 +569,7 @@
             "last_commit": "2024-04-20T19:01:27Z",
             "owner": "TheCherno",
             "repo": "Hazel",
-            "stars": 13088
+            "stars": 13089
           }
         },
         {
@@ -581,7 +581,7 @@
             "archived": false,
             "id": 354743391,
             "language": "C++",
-            "last_commit": "2026-08-24T20:19:57Z",
+            "last_commit": "2026-08-25T07:18:33Z",
             "owner": "o3de",
             "repo": "o3de",
             "stars": 9627
@@ -629,7 +629,7 @@
             "last_commit": "2026-08-25T04:17:22Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47831
+            "stars": 47841
           }
         },
         {
@@ -641,7 +641,7 @@
             "archived": false,
             "id": 19696006,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T02:31:20Z",
+            "last_commit": "2026-08-25T15:48:27Z",
             "owner": "playcanvas",
             "repo": "engine",
             "stars": 16554
@@ -689,7 +689,7 @@
             "last_commit": "2026-08-24T23:40:55Z",
             "owner": "turanszkij",
             "repo": "WickedEngine",
-            "stars": 7198
+            "stars": 7200
           }
         },
         {
@@ -701,7 +701,7 @@
             "archived": false,
             "id": 18179848,
             "language": "C++",
-            "last_commit": "2026-08-24T13:18:59Z",
+            "last_commit": "2026-08-25T14:17:05Z",
             "owner": "ezEngine",
             "repo": "ezEngine",
             "stars": 1999
@@ -734,7 +734,7 @@
             "last_commit": "2026-08-23T14:42:19Z",
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9524
+            "stars": 9525
           }
         },
         {
@@ -821,7 +821,7 @@
             "last_commit": "2026-08-17T11:05:41Z",
             "owner": "judge0",
             "repo": "judge0",
-            "stars": 4396
+            "stars": 4397
           }
         },
         {
@@ -833,10 +833,10 @@
             "archived": false,
             "id": 1246010662,
             "language": "Rust",
-            "last_commit": "2026-08-25T06:07:39Z",
+            "last_commit": "2026-08-25T14:12:08Z",
             "owner": "EpicGames",
             "repo": "lore",
-            "stars": 8466
+            "stars": 8467
           }
         }
       ],
@@ -844,7 +844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:26:18.552Z",
+    "last_updated": "2026-08-25T16:09:57.557Z",
     "original_repository": "zeelsheladiya/Awesome-IDEs",
     "original_repository_id": 676569489,
     "original_repository_sha": "a78c2f80d8a36fec6de107ddd7c6488e8994a060",
