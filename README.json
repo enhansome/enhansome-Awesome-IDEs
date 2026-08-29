@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "homepage": "https://zed.dev",
             "id": 340547520,
             "language": "Rust",
-            "last_commit": "2026-08-28T22:49:03Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:30:45Z",
+            "open_issues": 3168,
             "owner": "zed-industries",
             "repo": "zed",
-            "stars": 89379
+            "stars": 89383,
+            "topics": [
+              "gpui",
+              "rust-lang",
+              "text-editor",
+              "zed"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -26,12 +36,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+            "homepage": "http://theia-ide.org",
             "id": 83050680,
             "language": "TypeScript",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-28T17:08:16Z",
+            "open_issues": 1493,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21662
+            "stars": 21662,
+            "topics": [
+              "cloud-ide",
+              "editor",
+              "electron",
+              "ide",
+              "language-server-protocol",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -42,12 +64,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": "https://voideditor.com",
             "id": 855528273,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T22:03:55Z",
+            "open_issues": 307,
             "owner": "voideditor",
             "repo": "void",
-            "stars": 28820
+            "stars": 28821,
+            "topics": [
+              "chatgpt",
+              "claude",
+              "copilot",
+              "cursor",
+              "developer-tools",
+              "editor",
+              "llm",
+              "open-source",
+              "openai",
+              "visual-studio-code",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -58,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+            "homepage": "https://cline.bot",
             "id": 824874689,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:55:44Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:24:12Z",
+            "open_issues": 1139,
             "owner": "cline",
             "repo": "cline",
-            "stars": 67085
+            "stars": 67095,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -74,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source coding agent.",
+            "homepage": "https://opencode.ai",
             "id": 975734319,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:41:33Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:40:56Z",
+            "open_issues": 5593,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 202200
+            "stars": 202240,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -90,12 +140,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VS Code in the browser",
+            "homepage": "https://coder.com",
             "id": 172953845,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:46:23Z",
+            "open_issues": 150,
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79104
+            "stars": 79105,
+            "topics": [
+              "browser-ide",
+              "dev-tools",
+              "development-environment",
+              "ide",
+              "remote-work",
+              "vscode",
+              "vscode-remote"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -106,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.",
+            "homepage": "https://cate.cero-ai.com",
             "id": 1195336965,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:48:38Z",
+            "open_issues": 7,
             "owner": "0-AI-UG",
             "repo": "cate",
-            "stars": 2095
+            "stars": 2096,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -122,12 +190,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+            "homepage": "https://onOrca.dev",
             "id": 1183888342,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:52:19Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:40:51Z",
+            "open_issues": 4810,
             "owner": "stablyai",
             "repo": "orca",
-            "stars": 56163
+            "stars": 56305,
+            "topics": [
+              "ade",
+              "agent-ide",
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "codex",
+              "cursor-agent",
+              "devtools",
+              "ghostty",
+              "ide",
+              "mobile-app",
+              "opencode",
+              "orchestration",
+              "parallel-agents",
+              "pi",
+              "terminal",
+              "worktrees",
+              "yc-backed"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         }
@@ -144,12 +236,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Studio Code",
+            "homepage": "https://code.visualstudio.com",
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T00:04:30Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:48:39Z",
+            "open_issues": 20178,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189753
+            "stars": 189757,
+            "topics": [
+              "editor",
+              "electron",
+              "microsoft",
+              "typescript",
+              "visual-studio-code"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -160,12 +263,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vim-fork focused on extensibility and usability",
+            "homepage": "https://neovim.io",
             "id": 16408992,
             "language": "Vim Script",
-            "last_commit": "2026-08-28T17:34:31Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:22:51Z",
+            "open_issues": 1867,
             "owner": "neovim",
             "repo": "neovim",
-            "stars": 101999
+            "stars": 102001,
+            "topics": [
+              "api",
+              "c",
+              "lua",
+              "neovim",
+              "nvim",
+              "text-editor",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -176,12 +292,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A post-modern modal text editor.",
+            "homepage": "https://helix-editor.com",
             "id": 268424739,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-25T23:26:07Z",
+            "open_issues": 1632,
             "owner": "helix-editor",
             "repo": "helix",
-            "stars": 45971
+            "stars": 45978,
+            "topics": [
+              "kakoune",
+              "rust",
+              "text-editor",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -192,12 +318,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern and intuitive terminal-based text editor",
+            "homepage": "https://micro-editor.github.io",
             "id": 53632140,
             "language": "Go",
-            "last_commit": "2026-08-28T03:01:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:31:23Z",
+            "open_issues": 986,
             "owner": "micro-editor",
             "repo": "micro",
-            "stars": 29455
+            "stars": 29456,
+            "topics": [
+              "command-line",
+              "cross-platform",
+              "editor",
+              "go",
+              "golang",
+              "micro",
+              "terminal",
+              "text-editor"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -208,12 +348,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+            "homepage": "https://vscodium.com",
             "id": 144590939,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:15:12Z",
+            "open_issues": 139,
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 33008
+            "stars": 33009,
+            "topics": [
+              "editor",
+              "floss",
+              "ide",
+              "open-source-licensing",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -224,12 +375,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast and lightweight IDE",
+            "homepage": "https://www.geany.org",
             "id": 2532922,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-03T21:34:14Z",
+            "open_issues": 1267,
             "owner": "geany",
             "repo": "geany",
-            "stars": 3703
+            "stars": 3703,
+            "topics": [
+              "geany",
+              "ide",
+              "text-editor"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -240,12 +400,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TextMate is a graphical text editor for macOS 10.12 or later",
+            "homepage": "https://macromates.com/",
             "id": 5344375,
             "language": "Objective-C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-18T11:00:21Z",
+            "open_issues": 23,
             "owner": "textmate",
             "repo": "textmate",
-            "stars": 14568
+            "stars": 14568,
+            "topics": [
+              "c-plus-plus",
+              "cocoa",
+              "macos",
+              "objective-c-plus-plus",
+              "texteditor",
+              "textmate"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -256,12 +428,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight Plain Text Editor for macOS",
+            "homepage": "https://coteditor.com",
             "id": 9243402,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:05:03Z",
+            "open_issues": 16,
             "owner": "coteditor",
             "repo": "CotEditor",
-            "stars": 8423
+            "stars": 8423,
+            "topics": [
+              "cocoa",
+              "coteditor",
+              "editor",
+              "mac-app",
+              "macos",
+              "macos-app",
+              "swift",
+              "texteditor"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -272,12 +458,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!",
+            "homepage": "http://spacemacs.org",
             "id": 7212645,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-23T17:11:07Z",
+            "open_issues": 61,
             "owner": "syl20bnr",
             "repo": "spacemacs",
-            "stars": 24562
+            "stars": 24562,
+            "topics": [
+              "community-driven",
+              "configuration",
+              "emacs",
+              "spacemacs",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -288,12 +485,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight text editor written in Lua",
+            "homepage": "https://lite-xl.com",
             "id": 266620119,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-03-11T17:04:09Z",
+            "open_issues": 311,
             "owner": "lite-xl",
             "repo": "lite-xl",
-            "stars": 6342
+            "stars": 6342,
+            "topics": [
+              "c",
+              "code",
+              "code-editor",
+              "editor",
+              "lite-xl",
+              "lua",
+              "sdl2",
+              "text-editor"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -304,12 +515,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform text editor, written in Free Pascal",
+            "homepage": null,
             "id": 42943612,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T17:43:49Z",
+            "open_issues": 41,
             "owner": "Alexey-T",
             "repo": "CudaText",
-            "stars": 3171
+            "stars": 3172,
+            "topics": [
+              "cross-platform",
+              "lazarus",
+              "pascal",
+              "text-editor"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -320,12 +541,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.",
+            "homepage": "https://athas.dev",
             "id": 1006087248,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:17:00Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:08:35Z",
+            "open_issues": 7,
             "owner": "athasdev",
             "repo": "athas",
-            "stars": 3044
+            "stars": 3044,
+            "topics": [
+              "athas",
+              "code-editor",
+              "cross-platform",
+              "editor",
+              "ide",
+              "lightweight",
+              "react",
+              "rust",
+              "tauri",
+              "text-editor",
+              "vim",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -336,12 +575,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal based IDE & text editor: easy, powerful and fast",
+            "homepage": "https://getfresh.dev/",
             "id": 907990001,
             "language": "Rust",
-            "last_commit": "2026-08-28T23:47:42Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T04:44:52Z",
+            "open_issues": 305,
             "owner": "sinelaw",
             "repo": "fresh",
-            "stars": 8558
+            "stars": 8559,
+            "topics": [
+              "ide",
+              "terminal-based",
+              "text-editor"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -352,12 +600,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🚀 A modern-looking Code Editor",
+            "homepage": "https://graviton.netlify.app",
             "id": 162125552,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-03T18:11:43Z",
+            "open_issues": 34,
             "owner": "Graviton-Code-Editor",
             "repo": "Graviton-App",
-            "stars": 1206
+            "stars": 1206,
+            "topics": [
+              "cargo",
+              "css",
+              "deno",
+              "desktop",
+              "editor",
+              "free",
+              "graviton",
+              "hacktoberfest",
+              "javascript",
+              "opensource",
+              "rust",
+              "tauri",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -368,12 +635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of language lexers for use with Scintilla",
+            "homepage": "https://www.scintilla.org/Lexilla.html",
             "id": 334096873,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T08:51:42Z",
+            "open_issues": 64,
             "owner": "ScintillaOrg",
             "repo": "lexilla",
-            "stars": 268
+            "stars": 268,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -384,12 +656,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Textadept is a fast, minimalist, and remarkably extensible cross-platform text editor for programmers.",
+            "homepage": "https://orbitalquark.github.io/textadept",
             "id": 294280296,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-09T05:12:42Z",
+            "open_issues": 18,
             "owner": "orbitalquark",
             "repo": "textadept",
-            "stars": 910
+            "stars": 910,
+            "topics": [
+              "cross-platform",
+              "curses",
+              "editor",
+              "gtk",
+              "lua",
+              "qt",
+              "scintilla",
+              "terminal",
+              "text-editor",
+              "textadept"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -400,12 +688,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Light Table IDE ⛺",
+            "homepage": "www.lighttable.com",
             "id": 4814354,
             "language": "Clojure",
+            "license": "MIT",
             "last_commit": "2022-06-17T00:20:21Z",
+            "open_issues": 181,
             "owner": "LightTable",
             "repo": "LightTable",
-            "stars": 11690
+            "stars": 11690,
+            "topics": [
+              "clojure",
+              "clojure-development",
+              "clojurescript",
+              "editor",
+              "ide",
+              "lighttable"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         }
@@ -424,12 +724,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python IDE for beginners",
+                "homepage": "https://thonny.org",
                 "id": 163728962,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-28T14:52:36Z",
+                "open_issues": 834,
                 "owner": "thonny",
                 "repo": "thonny",
-                "stars": 3920
+                "stars": 3919,
+                "topics": [
+                  "ide",
+                  "learning-programming",
+                  "learning-python",
+                  "python",
+                  "thonny"
+                ]
               },
               "first_seen": "2026-08-29T00:04:37.103Z"
             },
@@ -440,12 +751,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pyscripter is a feature-rich but lightweight Python IDE",
+                "homepage": null,
                 "id": 41313736,
                 "language": "Pascal",
+                "license": "MIT",
                 "last_commit": "2025-11-24T20:01:29Z",
+                "open_issues": 50,
                 "owner": "lmbelo",
                 "repo": "pyscripter",
-                "stars": 1249
+                "stars": 1249,
+                "topics": [
+                  "debugger",
+                  "editor",
+                  "ide",
+                  "llm",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:04:37.103Z"
             }
@@ -463,12 +785,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache NetBeans",
+                "homepage": "https://netbeans.apache.org/",
                 "id": 102083576,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T00:20:17Z",
+                "open_issues": 1080,
                 "owner": "apache",
                 "repo": "netbeans",
-                "stars": 3113
+                "stars": 3114,
+                "topics": [
+                  "code-editor",
+                  "ide",
+                  "java",
+                  "netbeans",
+                  "netbeans-platform"
+                ]
               },
               "first_seen": "2026-08-29T00:04:37.103Z"
             }
@@ -490,12 +823,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Komodo IDE is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.",
+            "homepage": null,
             "id": 244748840,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-15T04:25:47Z",
+            "open_issues": 19,
             "owner": "ActiveState",
             "repo": "OpenKomodoIDE",
-            "stars": 648
+            "stars": 648,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         }
@@ -512,12 +850,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👨‍💻 Squircle CE is a fast and free multi-language code editor for Android",
+            "homepage": "https://play.google.com/store/apps/details?id=com.blacksquircle.ui",
             "id": 100590072,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T13:48:41Z",
+            "open_issues": 76,
             "owner": "massivemadness",
             "repo": "Squircle-CE",
-            "stars": 1871
+            "stars": 1871,
+            "topics": [
+              "android",
+              "code-completion",
+              "code-editor",
+              "file-explorer",
+              "kotlin",
+              "syntax-highlighting",
+              "text-editor"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -528,12 +879,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A desktop-class, general-purpose IDE for Android, powered by a full Linux environment.",
+            "homepage": null,
             "id": 439552706,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-21T14:37:27Z",
+            "open_issues": 2,
             "owner": "aload0",
             "repo": "Cosmic-IDE",
-            "stars": 717
+            "stars": 718,
+            "topics": [
+              "android-application",
+              "android-ide",
+              "code-editor-mobile",
+              "developer-tools",
+              "development",
+              "development-environment",
+              "gradle",
+              "hacktober",
+              "language-server-protocol",
+              "linux-on-android",
+              "maven",
+              "open-source",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         }
@@ -550,12 +920,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+            "homepage": "https://godotengine.org",
             "id": 15634981,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:21:06Z",
+            "open_issues": 18786,
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116304
+            "stars": 116319,
+            "topics": [
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "godot",
+              "godotengine",
+              "multi-platform",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -566,12 +949,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Defold is a completely free to use game engine for development of desktop, console, mobile and web games.",
+            "homepage": "https://www.defold.com",
             "id": 4315538,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:26:27Z",
+            "open_issues": 973,
             "owner": "defold",
             "repo": "defold",
-            "stars": 6274
+            "stars": 6274,
+            "topics": [
+              "c-plus-plus",
+              "clojure",
+              "defold",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "hacktoberfest",
+              "lua",
+              "multi-platform"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -582,12 +980,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stride (formerly Xenko), a free and open-source cross-platform C# game engine.",
+            "homepage": "https://stride3d.net",
             "id": 136570231,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:46:16Z",
+            "open_issues": 684,
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7808
+            "stars": 7809,
+            "topics": [
+              "csharp",
+              "direct3d",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "multi-platform",
+              "stride",
+              "vulkan",
+              "xenko"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -598,12 +1011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hazel Engine",
+            "homepage": null,
             "id": 153866232,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-20T19:01:27Z",
+            "open_issues": 135,
             "owner": "TheCherno",
             "repo": "Hazel",
-            "stars": 13087
+            "stars": 13087,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -614,12 +1032,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",
+            "homepage": "https://o3de.org",
             "id": 354743391,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:43:12Z",
+            "open_issues": 3487,
             "owner": "o3de",
             "repo": "o3de",
-            "stars": 9637
+            "stars": 9637,
+            "topics": [
+              "3d-graphics",
+              "3d-graphics-engine",
+              "animation",
+              "game-development",
+              "game-engine",
+              "gamedev"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -630,12 +1060,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redot Engine – Multi-platform 2D and 3D game engine",
+            "homepage": "https://redotengine.org",
             "id": 106836261,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:50:04Z",
+            "open_issues": 81,
             "owner": "Redot-Engine",
             "repo": "redot-engine",
-            "stars": 5921
+            "stars": 5921,
+            "topics": [
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "godot",
+              "godotengine",
+              "multi-platform",
+              "open-source",
+              "redot",
+              "redotengine"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -646,12 +1091,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, open source game engine online",
+            "homepage": null,
             "id": 385527025,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-30T09:16:53Z",
+            "open_issues": 87,
             "owner": "pmgl",
             "repo": "microstudio",
-            "stars": 1173
+            "stars": 1173,
+            "topics": [
+              "game-2d",
+              "game-3d",
+              "game-engine",
+              "gamedev",
+              "javascript",
+              "lua",
+              "microscript",
+              "nodejs",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -662,12 +1122,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A refreshingly simple data-driven game engine built in Rust",
+            "homepage": "https://bevy.org",
             "id": 234798675,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:49:49Z",
+            "open_issues": 3453,
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47943
+            "stars": 47948,
+            "topics": [
+              "bevy",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "open-source",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -678,12 +1150,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
+            "homepage": "https://playcanvas.com",
             "id": 19696006,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T23:24:30Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:18:45Z",
+            "open_issues": 531,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16576
+            "stars": 16577,
+            "topics": [
+              "3d-gaussian-splatting",
+              "3dgs",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "gaussian-splatting",
+              "gltf",
+              "hacktoberfest",
+              "javascript",
+              "nodejs",
+              "playcanvas",
+              "typescript",
+              "virtual-reality",
+              "webgl",
+              "webgl2",
+              "webgpu",
+              "webxr"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -694,12 +1189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 267440108,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T12:22:36Z",
+            "open_issues": 114,
             "owner": "TorqueGameEngines",
             "repo": "Torque3D",
-            "stars": 2092
+            "stars": 2093,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -710,12 +1210,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flax Engine – multi-platform 3D game engine",
+            "homepage": "https://flaxengine.com",
             "id": 319991441,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T10:11:27Z",
+            "open_issues": 786,
             "owner": "FlaxEngine",
             "repo": "FlaxEngine",
-            "stars": 6984
+            "stars": 6984,
+            "topics": [
+              "c-sharp",
+              "cpp",
+              "engine",
+              "flax",
+              "flax-engine",
+              "flaxengine",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "multi-platform"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -726,12 +1242,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D engine with modern graphics",
+            "homepage": "https://wickedengine.net",
             "id": 37770961,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-24T23:40:55Z",
+            "open_issues": 114,
             "owner": "turanszkij",
             "repo": "WickedEngine",
-            "stars": 7204
+            "stars": 7204,
+            "topics": [
+              "audio",
+              "directx12",
+              "entity-component-system",
+              "fbx",
+              "game-engine",
+              "global-illumination",
+              "gltf",
+              "input",
+              "jolt-physics",
+              "lua",
+              "metal",
+              "pbr",
+              "raytracing",
+              "vrm",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -742,12 +1279,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source C++ game engine.",
+            "homepage": "https://ezEngine.net",
             "id": 18179848,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:28:34Z",
+            "open_issues": 36,
             "owner": "ezEngine",
             "repo": "ezEngine",
-            "stars": 2004
+            "stars": 2004,
+            "topics": [
+              "3d-game-engine",
+              "3d-graphics",
+              "c-plus-plus",
+              "game-engine",
+              "gamedev"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -758,12 +1306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Extensible Non-Interpreted Game Maker Augmentation.",
+            "homepage": "http://enigma-dev.org",
             "id": 3319723,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-07-09T00:09:55Z",
+            "open_issues": 158,
             "owner": "enigma-dev",
             "repo": "enigma-dev",
-            "stars": 377
+            "stars": 377,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -774,12 +1327,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D and 2D game engine written in Rust",
+            "homepage": "https://fyrox.rs",
             "id": 178597005,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:51:48Z",
+            "open_issues": 59,
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9529
+            "stars": 9529,
+            "topics": [
+              "3d",
+              "3d-engine",
+              "engine",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "gui",
+              "rendering",
+              "rust",
+              "rust-lang"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -790,12 +1359,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Data-oriented and data-driven game engine written in Rust",
+            "homepage": "https://amethyst.rs/",
             "id": 48364554,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-06T18:23:49Z",
+            "open_issues": 0,
             "owner": "amethyst",
             "repo": "amethyst",
-            "stars": 8026
+            "stars": 8026,
+            "topics": [
+              "engine",
+              "game-engine",
+              "gamedev",
+              "hacktoberfest",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -806,12 +1386,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Verus Engine is a modern 3D game engine.",
+            "homepage": "https://en.verushub.com",
             "id": 123672581,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-11-23T11:24:48Z",
+            "open_issues": 0,
             "owner": "dmaluev",
             "repo": "verus",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "3d",
+              "cpp",
+              "d3d12",
+              "engine",
+              "graphics",
+              "hlsl",
+              "sdl2",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         }
@@ -828,12 +1422,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross platform IDE and Shell",
+            "homepage": null,
             "id": 43116257,
             "language": "C#",
+            "license": "LGPL-3.0",
             "last_commit": "2024-01-23T11:35:35Z",
+            "open_issues": 94,
             "owner": "VitalElement",
             "repo": "AvalonStudio",
-            "stars": 1721
+            "stars": 1721,
+            "topics": [
+              "arch-linux",
+              "avalonia",
+              "clang",
+              "cplusplus",
+              "cross-platform-ide",
+              "csharp",
+              "dotnetcore",
+              "gcc",
+              "gdb",
+              "linux",
+              "llvm",
+              "macos",
+              "mono",
+              "stm32",
+              "ubuntu",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -844,12 +1460,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "New web based Arduino IDE",
+            "homepage": null,
             "id": 20756285,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2015-04-23T21:20:01Z",
+            "open_issues": 21,
             "owner": "joshmarinacci",
             "repo": "ElectronIDE",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         }
@@ -866,12 +1487,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.",
+            "homepage": "https://judge0.com",
             "id": 80240424,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-17T11:05:41Z",
+            "open_issues": 196,
             "owner": "judge0",
             "repo": "judge0",
-            "stars": 4402
+            "stars": 4403,
+            "topics": [
+              "ai-agent-tools",
+              "ai-agents",
+              "ai-tools",
+              "code-execution",
+              "code-executor",
+              "code-runner",
+              "competitive-programming",
+              "online-compiler",
+              "online-judge",
+              "online-judges",
+              "onlinejudge",
+              "onlinejudge-solution"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         },
@@ -882,12 +1521,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lore is a next-generation, open source version control system",
+            "homepage": "https://lore.org",
             "id": 1246010662,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:49:04Z",
+            "open_issues": 110,
             "owner": "EpicGames",
             "repo": "lore",
-            "stars": 8503
+            "stars": 8504,
+            "topics": [
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-29T00:04:37.103Z"
         }
@@ -896,15 +1542,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:04:37.103Z",
+    "last_updated": "2026-08-29T04:50:54.954Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Integrated Development Environments (IDEs) and related tools that can enhance your coding experience and boost your productivity. ",
+      "homepage": null,
       "id": 676569489,
       "language": "Markdown",
+      "license": "CC0-1.0",
       "last_commit": "2026-07-01T15:53:46Z",
+      "open_issues": 1,
       "owner": "zeelsheladiya",
       "repo": "Awesome-IDEs",
-      "stars": 224
+      "stars": 224,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "code-editors",
+        "coding-environment",
+        "collaboration",
+        "developer-productivity",
+        "developer-tools",
+        "development-tools",
+        "embedded-systems",
+        "game-development",
+        "ide",
+        "integrated-development-environment",
+        "mobile-app-development",
+        "productivity",
+        "productivity-tools",
+        "programming",
+        "software-development",
+        "version-control",
+        "web-development"
+      ]
     },
     "original_repository_sha": "a78c2f80d8a36fec6de107ddd7c6488e8994a060",
     "enhanced_repository": "enhansome/enhansome-Awesome-IDEs",
