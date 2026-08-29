@@ -12,11 +12,12 @@
             "archived": false,
             "id": 340547520,
             "language": "Rust",
-            "last_commit": "2026-08-28T00:01:01Z",
+            "last_commit": "2026-08-28T22:49:03Z",
             "owner": "zed-industries",
             "repo": "zed",
-            "stars": 89331
-          }
+            "stars": 89379
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 83050680,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:49:41Z",
+            "last_commit": "2026-08-28T17:08:16Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21658
-          }
+            "stars": 21662
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-06-02T22:03:55Z",
             "owner": "voideditor",
             "repo": "void",
-            "stars": 28823
-          }
+            "stars": 28820
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 824874689,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:29:21Z",
+            "last_commit": "2026-08-28T23:55:44Z",
             "owner": "cline",
             "repo": "cline",
-            "stars": 67017
-          }
+            "stars": 67085
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 975734319,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:32:50Z",
+            "last_commit": "2026-08-28T23:41:33Z",
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 201970
-          }
+            "stars": 202200
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-08-27T19:46:23Z",
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79092
-          }
+            "stars": 79104
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -102,11 +108,12 @@
             "archived": false,
             "id": 1195336965,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:41:23Z",
+            "last_commit": "2026-08-28T18:48:38Z",
             "owner": "0-AI-UG",
             "repo": "cate",
-            "stars": 2093
-          }
+            "stars": 2095
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 1183888342,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:33:06Z",
+            "last_commit": "2026-08-28T23:52:19Z",
             "owner": "stablyai",
             "repo": "orca",
-            "stars": 55271
-          }
+            "stars": 56163
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         }
       ],
       "title": "AI-Powered & Next-Gen IDEs"
@@ -138,11 +146,12 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:31:29Z",
+            "last_commit": "2026-08-29T00:04:30Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189716
-          }
+            "stars": 189753
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -153,11 +162,12 @@
             "archived": false,
             "id": 16408992,
             "language": "Vim Script",
-            "last_commit": "2026-08-27T20:12:12Z",
+            "last_commit": "2026-08-28T17:34:31Z",
             "owner": "neovim",
             "repo": "neovim",
-            "stars": 101995
-          }
+            "stars": 101999
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2026-08-25T23:26:07Z",
             "owner": "helix-editor",
             "repo": "helix",
-            "stars": 45948
-          }
+            "stars": 45971
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -183,11 +194,12 @@
             "archived": false,
             "id": 53632140,
             "language": "Go",
-            "last_commit": "2026-08-27T16:06:55Z",
+            "last_commit": "2026-08-28T03:01:32Z",
             "owner": "micro-editor",
             "repo": "micro",
-            "stars": 29444
-          }
+            "stars": 29455
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -198,11 +210,12 @@
             "archived": false,
             "id": 144590939,
             "language": "Shell",
-            "last_commit": "2026-08-27T17:25:45Z",
+            "last_commit": "2026-08-28T17:15:12Z",
             "owner": "VSCodium",
             "repo": "vscodium",
-            "stars": 32997
-          }
+            "stars": 33008
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -216,8 +229,9 @@
             "last_commit": "2026-08-03T21:34:14Z",
             "owner": "geany",
             "repo": "geany",
-            "stars": 3702
-          }
+            "stars": 3703
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "textmate",
             "repo": "textmate",
             "stars": 14568
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -243,11 +258,12 @@
             "archived": false,
             "id": 9243402,
             "language": "Swift",
-            "last_commit": "2026-08-27T22:46:04Z",
+            "last_commit": "2026-08-28T15:05:03Z",
             "owner": "coteditor",
             "repo": "CotEditor",
-            "stars": 8415
-          }
+            "stars": 8423
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -261,8 +277,9 @@
             "last_commit": "2026-08-23T17:11:07Z",
             "owner": "syl20bnr",
             "repo": "spacemacs",
-            "stars": 24563
-          }
+            "stars": 24562
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -276,8 +293,9 @@
             "last_commit": "2026-03-11T17:04:09Z",
             "owner": "lite-xl",
             "repo": "lite-xl",
-            "stars": 6341
-          }
+            "stars": 6342
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -288,11 +306,12 @@
             "archived": false,
             "id": 42943612,
             "language": "Python",
-            "last_commit": "2026-08-27T20:27:17Z",
+            "last_commit": "2026-08-28T17:43:49Z",
             "owner": "Alexey-T",
             "repo": "CudaText",
-            "stars": 3169
-          }
+            "stars": 3171
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -303,11 +322,12 @@
             "archived": false,
             "id": 1006087248,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:54:27Z",
+            "last_commit": "2026-08-28T15:17:00Z",
             "owner": "athasdev",
             "repo": "athas",
-            "stars": 3036
-          }
+            "stars": 3044
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -318,11 +338,12 @@
             "archived": false,
             "id": 907990001,
             "language": "Rust",
-            "last_commit": "2026-08-27T23:51:22Z",
+            "last_commit": "2026-08-28T23:47:42Z",
             "owner": "sinelaw",
             "repo": "fresh",
-            "stars": 8543
-          }
+            "stars": 8558
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "Graviton-Code-Editor",
             "repo": "Graviton-App",
             "stars": 1206
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "ScintillaOrg",
             "repo": "lexilla",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "orbitalquark",
             "repo": "textadept",
             "stars": 910
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -381,8 +405,9 @@
             "last_commit": "2022-06-17T00:20:21Z",
             "owner": "LightTable",
             "repo": "LightTable",
-            "stars": 11689
-          }
+            "stars": 11690
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         }
       ],
       "title": "General Purpose IDEs"
@@ -404,8 +429,9 @@
                 "last_commit": "2026-05-28T14:52:36Z",
                 "owner": "thonny",
                 "repo": "thonny",
-                "stars": 3919
-              }
+                "stars": 3920
+              },
+              "first_seen": "2026-08-29T00:04:37.103Z"
             },
             {
               "node_type": "item",
@@ -420,7 +446,8 @@
                 "owner": "lmbelo",
                 "repo": "pyscripter",
                 "stars": 1249
-              }
+              },
+              "first_seen": "2026-08-29T00:04:37.103Z"
             }
           ],
           "description": null,
@@ -441,8 +468,9 @@
                 "last_commit": "2026-08-28T00:20:17Z",
                 "owner": "apache",
                 "repo": "netbeans",
-                "stars": 3096
-              }
+                "stars": 3113
+              },
+              "first_seen": "2026-08-29T00:04:37.103Z"
             }
           ],
           "description": null,
@@ -468,7 +496,8 @@
             "owner": "ActiveState",
             "repo": "OpenKomodoIDE",
             "stars": 648
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         }
       ],
       "title": "Web Development"
@@ -489,7 +518,8 @@
             "owner": "massivemadness",
             "repo": "Squircle-CE",
             "stars": 1871
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -504,7 +534,8 @@
             "owner": "aload0",
             "repo": "Cosmic-IDE",
             "stars": 717
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         }
       ],
       "title": "Mobile Development"
@@ -521,11 +552,12 @@
             "archived": false,
             "id": 15634981,
             "language": "C++",
-            "last_commit": "2026-08-27T17:33:08Z",
+            "last_commit": "2026-08-28T22:21:06Z",
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116244
-          }
+            "stars": 116304
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -536,11 +568,12 @@
             "archived": false,
             "id": 4315538,
             "language": "C++",
-            "last_commit": "2026-08-27T23:57:58Z",
+            "last_commit": "2026-08-28T20:26:27Z",
             "owner": "defold",
             "repo": "defold",
-            "stars": 6272
-          }
+            "stars": 6274
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -551,11 +584,12 @@
             "archived": false,
             "id": 136570231,
             "language": "C#",
-            "last_commit": "2026-08-25T22:37:46Z",
+            "last_commit": "2026-08-28T12:46:16Z",
             "owner": "stride3d",
             "repo": "stride",
-            "stars": 7806
-          }
+            "stars": 7808
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -569,8 +603,9 @@
             "last_commit": "2024-04-20T19:01:27Z",
             "owner": "TheCherno",
             "repo": "Hazel",
-            "stars": 13088
-          }
+            "stars": 13087
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -581,11 +616,12 @@
             "archived": false,
             "id": 354743391,
             "language": "C++",
-            "last_commit": "2026-08-25T07:18:33Z",
+            "last_commit": "2026-08-28T16:43:12Z",
             "owner": "o3de",
             "repo": "o3de",
-            "stars": 9633
-          }
+            "stars": 9637
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -596,11 +632,12 @@
             "archived": false,
             "id": 106836261,
             "language": "C++",
-            "last_commit": "2026-08-07T21:49:51Z",
+            "last_commit": "2026-08-28T14:50:04Z",
             "owner": "Redot-Engine",
             "repo": "redot-engine",
-            "stars": 5920
-          }
+            "stars": 5921
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -615,7 +652,8 @@
             "owner": "pmgl",
             "repo": "microstudio",
             "stars": 1173
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -626,11 +664,12 @@
             "archived": false,
             "id": 234798675,
             "language": "Rust",
-            "last_commit": "2026-08-27T00:36:18Z",
+            "last_commit": "2026-08-28T21:49:49Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47916
-          }
+            "stars": 47943
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -641,11 +680,12 @@
             "archived": false,
             "id": 19696006,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T15:05:48Z",
+            "last_commit": "2026-08-28T23:24:30Z",
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16572
-          }
+            "stars": 16576
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -660,7 +700,8 @@
             "owner": "TorqueGameEngines",
             "repo": "Torque3D",
             "stars": 2092
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -674,8 +715,9 @@
             "last_commit": "2026-08-18T10:11:27Z",
             "owner": "FlaxEngine",
             "repo": "FlaxEngine",
-            "stars": 6983
-          }
+            "stars": 6984
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -689,8 +731,9 @@
             "last_commit": "2026-08-24T23:40:55Z",
             "owner": "turanszkij",
             "repo": "WickedEngine",
-            "stars": 7203
-          }
+            "stars": 7204
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -701,11 +744,12 @@
             "archived": false,
             "id": 18179848,
             "language": "C++",
-            "last_commit": "2026-08-27T09:01:46Z",
+            "last_commit": "2026-08-28T21:28:34Z",
             "owner": "ezEngine",
             "repo": "ezEngine",
-            "stars": 2001
-          }
+            "stars": 2004
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -720,7 +764,8 @@
             "owner": "enigma-dev",
             "repo": "enigma-dev",
             "stars": 377
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -731,11 +776,12 @@
             "archived": false,
             "id": 178597005,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:33:03Z",
+            "last_commit": "2026-08-28T19:51:48Z",
             "owner": "FyroxEngine",
             "repo": "Fyrox",
             "stars": 9529
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -750,7 +796,8 @@
             "owner": "amethyst",
             "repo": "amethyst",
             "stars": 8026
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -765,7 +812,8 @@
             "owner": "dmaluev",
             "repo": "verus",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         }
       ],
       "title": "Game Development"
@@ -786,7 +834,8 @@
             "owner": "VitalElement",
             "repo": "AvalonStudio",
             "stars": 1721
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -801,7 +850,8 @@
             "owner": "joshmarinacci",
             "repo": "ElectronIDE",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         }
       ],
       "title": "Embedded Systems"
@@ -822,7 +872,8 @@
             "owner": "judge0",
             "repo": "judge0",
             "stars": 4402
-          }
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         },
         {
           "node_type": "item",
@@ -833,18 +884,19 @@
             "archived": false,
             "id": 1246010662,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:47:05Z",
+            "last_commit": "2026-08-28T19:49:04Z",
             "owner": "EpicGames",
             "repo": "lore",
-            "stars": 8500
-          }
+            "stars": 8503
+          },
+          "first_seen": "2026-08-29T00:04:37.103Z"
         }
       ],
       "title": "Version Control & Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:33:33.602Z",
+    "last_updated": "2026-08-29T00:04:37.103Z",
     "original_repository_info": {
       "archived": false,
       "id": 676569489,
